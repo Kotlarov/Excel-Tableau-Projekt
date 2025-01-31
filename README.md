@@ -1,1 +1,1 @@
-In meiner Bachelorarbeit habe ich mich unter anderem mit der Abhängigkeit der Schwefeldioxid-Konzentrationen in Bremen von der Windrichtung beschäftigt. Als beispielprojekt habe ich die Daten von 2020 mit aktuellen Daten veglichen.
+In meiner Bachelorarbeit habe ich mich unter anderem mit der Abhängigkeit der Schwefeldioxid-Konzentrationen in Bremen von der Windrichtung beschäftigt. Als Beispielprojekt habe ich mit Excel und Tableau die Daten von 2020 mit aktuellen Daten veglichen.
